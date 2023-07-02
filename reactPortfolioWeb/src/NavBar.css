@@ -1,0 +1,29 @@
+.navList{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 3em 3em 0 3em; 
+  }
+  
+  .navList .navLink{
+    list-style: none;
+    color: #333;
+    font-size: 20px;
+    margin: 0 2em;
+  }
+  
+  .navList .logo{
+    list-style: none;
+    color: #fff;
+    font-size: 24px;
+    padding: 0;
+  }
+  
+  .linkDiv{
+    display: flex;
+  }
+  
+  .logoDiv{
+    display: flex;
+  }
+  
