@@ -1,0 +1,11 @@
+.rightBody{
+    display: flex;
+    flex: 0 0 10%;
+    justify-content: center;
+    align-items: center;
+}
+
+.rightBody img {
+    max-width: auto;
+    max-height: 600px;
+}

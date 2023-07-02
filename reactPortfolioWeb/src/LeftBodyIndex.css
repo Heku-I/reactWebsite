@@ -1,0 +1,22 @@
+.leftBody{
+    display: flex;
+    flex: 0 0 70%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.leftBody .logo{
+    display: flex;
+    justify-items:flex-start;
+    justify-self: flex-start;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-self: flex-start;
+    margin-left: 12em;
+}
+
+.leftBody img{
+    height: 60px;
+
+}
