@@ -1,0 +1,17 @@
+.footerContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.footerContainer img{
+    height: 75px;
+    margin: 0 20px;
+}
+
+.line {
+    border-left: 3px solid black;
+    height: 80px;
+
+    margin: 0 50px;  /* adjust this to control the space around the line */
+  }

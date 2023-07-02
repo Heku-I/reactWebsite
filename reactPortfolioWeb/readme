@@ -1,0 +1,10 @@
+Trying to learn/improve on React by making a simple portfolio website. 
+
+For some reson I get errors on the Footer1.jsx file, but cannot figure out why. Everything still works. 
+
+TODO: 
+
+1. Need to add links to other sites. 
+2. Need to make the other sites, Home, Project, Contact. 
+3. Need to fix the LinkedIn and Github Icon (not at the right spot). 
+4. Try to add some effects with the profile picture. Thinking of something around it, also maybe eyes/face following the mouse? 

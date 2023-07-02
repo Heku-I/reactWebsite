@@ -1,6 +1,8 @@
 import { useState } from 'react'
 import { NavBar } from "./NavBar"
 import { Bodyindex } from "./Bodyindex"
+import Footer1 from './Footer1'
+
 
 import './index.css'
 
@@ -19,6 +21,7 @@ export default function App() {
     <>
     <NavBar></NavBar>
     <Bodyindex></Bodyindex>
+    <Footer1></Footer1>
     </>
   )
 
